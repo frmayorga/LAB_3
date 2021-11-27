@@ -1,6 +1,6 @@
 # LAB_3
 
-# LAB_2 ANALISIS DE MALLAS
+# LAB_2 ANALISIS DE NODOS
 
 # INTEGRANTES
 
@@ -47,10 +47,10 @@ TOLERANCIA : Oro +- 5%; Plata +- 10%.
 |--------|------------|
 | 1 | Fuente de voltaje en C.D. |
 | 1 | Multimetro Digital |
-| 1 | Resistor de 820 Ohmios |
-| 1 | Resistor de 390 Ohmios |
-| 1 | Resistor de 1 kilo-ohmio |
-| 1 | Resistor de 1.2 kilo-ohmios |
+| 1 | Resistor de 1.8 Kilo-Ohmios |
+| 1 | Resistor de 470 Ohmios |
+| 1 | Resistor de 1.5 kilo-ohmio |
+| 1 | Resistor de 3.9 kilo-ohmios |
 | 1 | Resistor de 2.2 Kilo-ohmios |
 | 1 | Protoboard |
 
@@ -68,6 +68,3 @@ TOLERANCIA : Oro +- 5%; Plata +- 10%.
 
 - Floyd, T. (2007). Principios de circuitos eléctricos. Octava edición. Mexico. Editorial Pearson.
 - Robbins, A., Miller, W. (2008) Analisis de circuitos Teoria y Practica. Cuarta Edicion. Mexico. Editorial CENGAGE Learning.
-- McAllister, W. (s.f) El método de la corriente de malla. Khan Academy. Recuperado el 21 de noviembre del 2021 de https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-mesh-current-method
-- McAllister, W. (s.f) Las Leyes de Kirchoff. Khan Academy. Recuperado el 21 de noviembre del 2021 de https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
-- CALCULADORA ONLINE: http://es.onlinemschool.com/math/assistance/equation/combined_equations/
