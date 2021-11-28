@@ -10,17 +10,12 @@ Fernanda Mayorga, Stalyn Castellanos, Nicolás Reyes
 
 ## OBJETIVO GENERAL 
 
-Realizar la aplicación del análisis de mallas en circuitos eléctricos además demostrar el análisis de mallas experimentalmente con la ayuda de simuladores virtuales y con el respectivo sustento teórico de tema
 
 ## OBJETIVOS ESPECIFICOS
 
-- comparar los resultados obtenidos en la corriente existenete en cada malla de manera experimental, analitica y simulada.
-- aplicar el metodo de analisis de mallas para encontrar valores de corriente en un circuito, mediante la cual podamos conocer mas caracteristicas de los componentes del circuito como lo son el voltaje o la resistencia.
-- determinar los resultados necesarios para poder interpretarlos de mejor manera, al igual que detectar el error que existe entre los diferestes calculos.  
 
 # MARCO TEORICO
 
-![Marco teorico](https://user-images.githubusercontent.com/93361435/142778540-6e5adb05-28c8-42a5-b124-837869409550.jpg)
 
 **CODIGO DE COLORES PARA RESISTORES DE 4 BANDAS** 
 
