@@ -50,6 +50,18 @@ TOLERANCIA : Oro +- 5%; Plata +- 10%.
 | 1 | Protoboard |
 
 
+Se procedio a armar el siguiente circuito en los simuladores multisim y tinkercad: 
+
+![image](https://user-images.githubusercontent.com/93361435/143960870-d777d017-5920-42c2-a778-3ba25c56da6a.png)
+
+
+**RESULTADOS ANALITICOS**
+
+![parte analitica](https://user-images.githubusercontent.com/93361435/143960939-5719a018-73c7-4adc-9a6d-c7f8d22098e9.png)
+
+Para la parte analitica se uso una calculadora online para resolver el sistema de ecuaciones lineales, antes de ello se realizo un anilisis del circuito usando el analisis de nodos el cual consta 
+
+
 # RESPUESTA A INTERROGANTES Y CALCULO DE ERROR 
 
 
