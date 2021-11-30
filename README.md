@@ -68,6 +68,13 @@ Como resultados obtenemos:
 
 # RESPUESTA A INTERROGANTES Y CALCULO DE ERROR 
 
+**TABLA:**
+
+| NODO | R. ANALITICO | R. EXPERIMENTAL | R. SIMULADO |
+|--------|------------|-------------------|-------------|
+| NODO A | 2.822 V |  | |
+| NODO B | 4.802 V |  |  |
+
 
 # VIDEO
 
