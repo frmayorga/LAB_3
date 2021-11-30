@@ -95,8 +95,8 @@ Podemos apreciar que los resultados obtenidos no difieren demasiado con respecto
 
 | NODO | R. ANALITICO | R. EXPERIMENTAL | R. SIMULADO |
 |--------|------------|-------------------|-------------|
-| NODO A | 2.822 V |  | 2.82 V|
-| NODO B | 4.802 V |  | 4.80 V |
+| NODO A | 2.822 V | 2.8203 V | 2.82 V|
+| NODO B | 4.802 V | 4.802 V | 4.80 V |
 
 
 # VIDEO
