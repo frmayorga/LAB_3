@@ -16,6 +16,7 @@ Fernanda Mayorga, Stalyn Castellanos, Nicolás Reyes
 
 # MARCO TEORICO
 
+![Metodo del Voltaje en Nodos](https://user-images.githubusercontent.com/93561706/143985788-977dc477-79b1-404d-b455-4ccfe9ef2e52.png)
 
 **CODIGO DE COLORES PARA RESISTORES DE 4 BANDAS** 
 
