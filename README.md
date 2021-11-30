@@ -102,9 +102,35 @@ Podemos apreciar que los resultados obtenidos no difieren demasiado con respecto
 | NODO A | 2.822 V | 2.8203 V | 2.82 V|
 | NODO B | 4.802 V | 4.802 V | 4.80 V |
 
+**ERROR DEL RESULTADO ANALITICO Y EL EXPERIMENTAL** 
+
+NODO A
+
+![image](https://user-images.githubusercontent.com/93361435/144054864-667dc25e-1bba-4514-a8df-95ba1312c43b.png)
+
+**ERROR DEL RESULTADO ANALITICO Y EL SIMULADO**
+
+NODO A
+
+![image](https://user-images.githubusercontent.com/93361435/144055288-cdf91d26-7076-42de-bc91-79012f92a830.png)
+
+NODO B
+
+![image](https://user-images.githubusercontent.com/93361435/144055447-819edaf9-b3d0-4f21-9001-b15ad4a682f4.png)
+
+**ERROR DEL RESULTADO EXPERIMENTAL Y EL SIMULADO** 
+
+NODO A
+
+![image](https://user-images.githubusercontent.com/93361435/144055789-4423809f-784d-4a66-8196-286b8549ad80.png)
+
+NODO B
+
+![image](https://user-images.githubusercontent.com/93361435/144055838-0e462a3a-ddb4-4cc6-8835-f098408ab671.png)
 
 # VIDEO
 
+https://youtu.be/Ta_1M8K193M 
 
 # CONCLUSIONES
 
