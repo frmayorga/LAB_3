@@ -9,9 +9,12 @@ Fernanda Mayorga, Stalyn Castellanos, Nicolás Reyes
 # OBJETIVOS
 
 ## OBJETIVO GENERAL 
-
+- Aplicar el conocimiento adquirido por las leyes de Kirchhoff en el análisis de nodos, de manera que encontremos los voltajes de nodo por los métodos analítico, experimental y simulado.
 
 ## OBJETIVOS ESPECIFICOS
+
+- Determinar mediante el análisis de los nodos en el circuito dado los voltajes de cada nodo.
+- Analizar los resultados obtenidos he interpretarlos.
 
 
 # MARCO TEORICO
@@ -106,6 +109,10 @@ Podemos apreciar que los resultados obtenidos no difieren demasiado con respecto
 
 
 # CONCLUSIONES
+
+- El análisis de nodos es de gran importancia pues nos permite determinar el voltaje que regula cada uno de los resistores aplicando las leyes de Kirchhoff, específicamente la ley de las corrientes, que facilita de gran manera el cálculo de este tipo de problemas tomando en cuenta ciertas consideraciones, como que siempre que se aplique este método debe existir un nodo de referencia el cual por conveniencia siempre es el que tiene conexión con más elementos del circuito y el voltaje de este nodo siempre será igual a cero.
+
+- Haciendo uso de las plataformas tinkercad y multisim logramos comprobar los resultados obtenidos de manera analítica, además pudimos notar que los resultados no varían demasiado, es decir, que su variación es mínima, y, por ende, existe un gran nivel de exactitud. también pudimos notar que el voltaje medido del nodo de referencia es igual a cero.
 
 
 # BIBLIOGRAFIA
