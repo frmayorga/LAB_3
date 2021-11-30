@@ -65,6 +65,15 @@ Como resultados obtenemos:
 
 ![image](https://user-images.githubusercontent.com/93361435/143963516-e20ac28c-08dd-4daf-bfc3-0ff14b5d488d.png)
 
+**RESULTADOS SIMULADOS**
+- En primer lugar, procedemos a realizar el circuito esquemático en un simulador, para nuestro trabajo preferimos utilizar multisim.  
+![image](https://user-images.githubusercontent.com/93398718/143966099-73e1bf52-b81f-4181-a1c1-bda7c3a13529.png)  
+- Luego, guiándonos de los datos obtenidos en el análisis analítico y en la manera que se terminaron las posiciones de los nodos, se colocan los voltímetros y se marca el nodo de referencias, de tal manera que se obtiene lo siguiente.  
+![image](https://user-images.githubusercontent.com/93398718/143966194-b78d532c-d78d-4701-a1c2-1f68f4576127.png)  
+- El nodo 3 tiene más conexiones que los demás nodos por este motivo fue seleccionado como nodo de referencia, además el nodo 2 y 3 fueron seleccionados porque tienen conexiones con más de dos elementos.
+Podemos apreciar que los resultados obtenidos no difieren demasiado con respecto a los resultados obtenidos de manera analítica y experimental, de esta manera podemos afirmar que existe un alto índice de exactitud. A continuación, se pueden apreciar los resultados en la siguiente tabla:  
+![image](https://user-images.githubusercontent.com/93398718/143966569-9d15d347-e167-43f6-a63b-d349130da627.png)
+
 
 # RESPUESTA A INTERROGANTES Y CALCULO DE ERROR 
 
