@@ -74,6 +74,19 @@ Como resultados obtenemos:
 Podemos apreciar que los resultados obtenidos no difieren demasiado con respecto a los resultados obtenidos de manera analítica y experimental, de esta manera podemos afirmar que existe un alto índice de exactitud. A continuación, se pueden apreciar los resultados en la siguiente tabla:  
 ![image](https://user-images.githubusercontent.com/93398718/143966569-9d15d347-e167-43f6-a63b-d349130da627.png)
 
+**RESULTADOS SIMULADOS**
+
+-
+
+![image](https://user-images.githubusercontent.com/93561706/143967185-85bfb375-4685-43ff-9cac-16d0b4a0a98f.png)
+
+-
+
+| NODO | R. ANALITICO | R. EXPERIMENTAL | R. SIMULADO |
+|--------|------------|-------------------|-------------|
+| NODO A | 2.822 V |  | 2.82 V|
+| NODO B | 4.802 V |  | 4.80 V |
+
 
 # RESPUESTA A INTERROGANTES Y CALCULO DE ERROR 
 
@@ -81,8 +94,8 @@ Podemos apreciar que los resultados obtenidos no difieren demasiado con respecto
 
 | NODO | R. ANALITICO | R. EXPERIMENTAL | R. SIMULADO |
 |--------|------------|-------------------|-------------|
-| NODO A | 2.822 V |  | |
-| NODO B | 4.802 V |  |  |
+| NODO A | 2.822 V |  | 2.82 V|
+| NODO B | 4.802 V |  | 4.80 V |
 
 
 # VIDEO
