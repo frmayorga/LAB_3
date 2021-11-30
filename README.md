@@ -78,17 +78,19 @@ Podemos apreciar que los resultados obtenidos no difieren demasiado con respecto
 
 **RESULTADOS SIMULADOS**
 
-- 
+- En primer lugar, procedemos a realizar el circuito en un simulador en este caso utilizamos tinkercad paro poder hacerlo de una mejor manera.
+- Colocamos los elementos necesarios como son las resistencia y las fuentes de voltaje. 
 
 ![image](https://user-images.githubusercontent.com/93561706/143967185-85bfb375-4685-43ff-9cac-16d0b4a0a98f.png)
 
--
+-Como observamos para poder determinar los valores de los voltajes en los nodos, tenimos que medirlo con respecto a la tierra en este caso nuestra tierra es nuestro nodo de referencia, una vez que ya obtuvimos los valores procedemos a colocarlo en nuestra tabla.
 
 | NODO | R. ANALITICO | R. EXPERIMENTAL | R. SIMULADO |
 |--------|------------|-------------------|-------------|
 | NODO A | 2.822 V | 2.8203 V | 2.82 V|
 | NODO B | 4.802 V | 4.802 V | 4.80 V |
 
+-Como observamos los valores son muy similares lo unico que cambia son las cifras significativas, pero esto no significa que esta muy alejado ya que todos los resultados tanto en la parte analitica, sistematica y del simulador son similares. 
 
 # RESPUESTA A INTERROGANTES Y CALCULO DE ERROR 
 
